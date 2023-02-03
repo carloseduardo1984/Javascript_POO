@@ -17,3 +17,5 @@ Depois fazer o comando > npm install
         "start": "node ./src/ex3.js" }
         
         //==================================================================
+        
+        Para executar: npm start

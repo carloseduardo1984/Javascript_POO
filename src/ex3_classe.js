@@ -5,6 +5,8 @@ const pessoa = new Pessoa_aqui('testeNome', 'testeSobrenome');
 console.log(pessoa.nome); // testeNome 
 console.log(pessoa.sobrenome); // testeSobrenome 
 
+pessoa.exibir("texto") // chama metodo exibir
+
 console.log("======================"); // testeSobrenome 
 
  
